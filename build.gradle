@@ -30,3 +30,6 @@ sourceCompatibility = '1.8.7.1'
 tasks.withType(JavaCompile) {
 	options.encoding = 'UTF-8'
 }
+
+
+stage
